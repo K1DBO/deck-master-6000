@@ -10,7 +10,7 @@ StreamDeck plug-in for FlexRadio's Flex-6000 series radios
 
 Connect to [Slice Master 6000's](https://github.com/k1dbo/slice-master-6000) HRD TCP Listeners to control your FlexRadio FLEX-6000 series radios with any Elgato StreamDeck, including the Stream Deck +, and Stream Deck Pedal.
 
-All displays are dynamic and supoprt customizable background colors, images, adjustable fonts.
+All displays are dynamic and support customizable background colors, images, adjustable fonts.
 
 Setup is easy.  Just download the plug-in from the [releases page](https://github.com/k1dbo/deck-master-6000/releases) and double click to install.
 
