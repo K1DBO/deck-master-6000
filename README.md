@@ -18,7 +18,15 @@ Once installed, you can choose Toggle, Range, and Choice controls and add them t
 
 If you are using a Stream Deck +, you can also choose from two different dial variations: Range/Choice or Range/Toggle.  Each require you to choose a Range to be adjusted by the knob but you can optionally choose a Toggle or Choice to be controlled by pressing the knob or touching the knob display.  This is great for combining related functions, like mute and volume, onto a single knob.
 
-The connection to Slice Master is controled by the Server tab for each control.  But note that all controls share the same connection.  The default configuration assumes that Slice Master is listening for connection on port 7810 and is running on the same computer as the plug-in.  So to get the plug-in going, all you'll need to do is start up Slice Master and check its settings tab for the HRD TCP TX Listener to make sure that it is enabled and running on port 7810.
+The connection to Slice Master is controled by the Server tab for each control.  But note that all controls share the same connection.  The default configuration assumes that Slice Master is listening for connection on port 7810 and is running on the same computer as the plug-in.  
+
+To get the plug-in going, all you'll need to do is start up Slice Master and check its settings tab for the HRD TCP TX Listener 
+
+![Stream Deck](screenshots/slice-master-1-0-0.PNG)
+
+to make sure that it is enabled and running on port 7810.
+
+
 
 Here are a few examples of what you can expect to see.
 
