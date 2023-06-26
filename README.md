@@ -1,5 +1,5 @@
 # Deck Master 6000 
-v1.0.0
+v1.0.3
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Donald Beaudry (K1DBO)*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*June 2023*
